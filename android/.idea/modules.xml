@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../MangaReader/android/MangaReader-android.iml" filepath="$PROJECT_DIR$/../../MangaReader/android/MangaReader-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MangaReader/android/app/MangaReader-android-app.iml" filepath="$PROJECT_DIR$/../../MangaReader/android/app/MangaReader-android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Special-character/android/Special-character-android.iml" filepath="$PROJECT_DIR$/../../Special-character/android/Special-character-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Special-character/android/app/Special-character-android-app.iml" filepath="$PROJECT_DIR$/../../Special-character/android/app/Special-character-android-app.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/admob_flutter.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/admob_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MangaReader/android/app/android-app.iml" filepath="$PROJECT_DIR$/../../MangaReader/android/app/android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/clipboard_manager-0.0.4/android/clipboard_manager.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/clipboard_manager-0.0.4/android/clipboard_manager.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/android/esys_flutter_share.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/android/esys_flutter_share.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/flutter_pdf_viewer.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/flutter_pdf_viewer.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share-1.0.2+1/android/flutter_share.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share-1.0.2+1/android/flutter_share.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.0/android/path_provider.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.0/android/path_provider.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.2.0+hotfix.3/android/permission_handler.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.2.0+hotfix.3/android/permission_handler.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_scaffold-1.2.0/android/plugin_scaffold.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_scaffold-1.2.0/android/plugin_scaffold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MangaReader/android/ratedialog/ratedialog.iml" filepath="$PROJECT_DIR$/../../MangaReader/android/ratedialog/ratedialog.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+8/android/shared_preferences.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+8/android/shared_preferences.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/android/url_launcher.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/android/url_launcher.iml" />
+    </modules>
+  </component>
+</project>

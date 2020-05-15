@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.richadx:startapp:2.3.13@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/startapp-2.3.13.aar/d5f9cd5a8fdfc49d7c8c7c349fdc0f9c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/startapp-2.3.13.aar/d5f9cd5a8fdfc49d7c8c7c349fdc0f9c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.flurry.android:analytics:12.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-analytics-12.1.0.aar/284c0687834a0c70b96f17b10db4fa0a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-analytics-12.1.0.aar/284c0687834a0c70b96f17b10db4fa0a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

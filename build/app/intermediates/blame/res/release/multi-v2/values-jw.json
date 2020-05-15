@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/AIB/PdfReader/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-jw/values-jw.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/values-jw/values-jw.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,193",
+                        "endColumns": "77,59,48",
+                        "endOffsets": "128,188,237"
+                    }
+                }
+            ]
+        }
+    ]
+}

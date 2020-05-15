@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/AIB/PdfReader/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/84ccd4a9cf235d42bd32d432b4d6c954/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "1405",
+                        "endColumns": "190",
+                        "endOffsets": "1591"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,354,562,695,797,1024,1151,1301,1436,1655,1763,1959,2088,2305,2488,2575,2670",
+                        "endColumns": "108,207,132,101,226,126,149,134,218,107,195,128,216,182,86,94,109",
+                        "endOffsets": "353,561,694,796,1023,1150,1300,1435,1654,1762,1958,2087,2304,2487,2574,2669,2779"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "190,303,511,648,754,981,1112,1266,1596,1815,1927,2123,2256,2473,2660,2751,2850",
+                        "endColumns": "112,207,136,105,226,130,153,138,218,111,195,132,216,186,90,98,113",
+                        "endOffsets": "298,506,643,749,976,1107,1261,1400,1810,1922,2118,2251,2468,2655,2746,2845,2959"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,139,229,307,374,438,525,602,683,763,838,905,968,1037,1096,1158,1227,1304,1373,1426,1484,1536,1597,1667,1726,1794,1861,1929,1983,2051,2138,2225",
+                        "endColumns": "83,89,77,66,63,86,76,80,79,74,66,62,68,58,61,68,76,68,52,57,51,60,69,58,67,66,67,53,67,86,86,54",
+                        "endOffsets": "134,224,302,369,433,520,597,678,758,833,900,963,1032,1091,1153,1222,1299,1368,1421,1479,1531,1592,1662,1721,1789,1856,1924,1978,2046,2133,2220,2275"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2964,3048,3138,3216,3283,3347,3434,3511,3592,3672,3747,3814,3877,3946,4005,4067,4136,4213,4282,4335,4393,4445,4506,4576,4635,4703,4770,4838,4892,4960,5047,5134",
+                        "endColumns": "83,89,77,66,63,86,76,80,79,74,66,62,68,58,61,68,76,68,52,57,51,60,69,58,67,66,67,53,67,86,86,54",
+                        "endOffsets": "3043,3133,3211,3278,3342,3429,3506,3587,3667,3742,3809,3872,3941,4000,4062,4131,4208,4277,4330,4388,4440,4501,4571,4630,4698,4765,4833,4887,4955,5042,5129,5184"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "62",
+                        "startColumns": "4",
+                        "startOffsets": "5914",
+                        "endColumns": "100",
+                        "endOffsets": "6010"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-18.3.0.aar/627fc7e07fb4d5c2e5fdcd8ed08d22aa/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,275,392,458,523,604,708",
+                        "endColumns": "75,116,65,64,80,103,74",
+                        "endOffsets": "274,391,457,522,603,707,782"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5302,5382,5503,5573,5642,5727,5835",
+                        "endColumns": "79,120,69,68,84,107,78",
+                        "endOffsets": "5377,5498,5568,5637,5722,5830,5909"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,140,199",
+                        "endColumns": "84,58,53",
+                        "endOffsets": "135,194,248"
+                    },
+                    "to": {
+                        "startLines": "2,53,54",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,5189,5248",
+                        "endColumns": "84,58,53",
+                        "endOffsets": "185,5243,5297"
+                    }
+                }
+            ]
+        }
+    ]
+}

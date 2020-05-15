@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pycampers.flutterpdfviewer" >
+
+    <uses-sdk android:minSdkVersion="19" />
+
+    <application>
+        <activity
+            android:name="com.pycampers.flutterpdfviewer.PdfActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+    </application>
+
+</manifest>

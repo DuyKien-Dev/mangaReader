@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:2:11-51
+		INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:3:5-6:19
+activity#com.pycampers.flutterpdfviewer.PdfActivity
+ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:4:9-5:82
+	android:configChanges
+		ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:5:19-80
+	android:name
+		ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml:4:19-46
+uses-sdk
+INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/src/main/AndroidManifest.xml

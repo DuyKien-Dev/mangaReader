@@ -1,0 +1,926 @@
+[
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_custom_background_exit_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/custom_background_exit_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_splash_ad_bg_permission_2_state.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/splash_ad_bg_permission_2_state.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_splash_ad_interstitial.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/layout/splash_ad_interstitial.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/anim_scale_down.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/anim/scale_down.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_filled.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/filled.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_shuffle.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_track_selection_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_head_bg.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/head_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_pdf_viewer_layout.xml.flat",
+        "source": "/Users/mac/AIB/PdfReader/build/flutter_pdf_viewer/intermediates/packaged_res/release/layout/pdf_viewer_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_page.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/0b625836c7b66489e2c53063e3010bb3/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_default_scroll_handle_bottom.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-android-pdf-viewer-3.1.0-beta.1.aar/9ee85d10e309f24b787d45d09f613930/res/drawable/default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_custom_image_view_exit_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/custom_image_view_exit_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_player_view.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_vinci.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/layout/vinci.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_custom_exit_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/layout/custom_exit_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_ribonl.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/ribonl.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_layout_bg.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/layout_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_fullscreen_enter.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_player_control_view.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_splash_ad.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/layout/splash_ad.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_ic_exit_dialog.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/ic_exit_dialog.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/anim_scale_up.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/anim/scale_up.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_submit_bg.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/submit_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_next.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_fastforward.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxxhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_circle_shaped.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/circle_shaped.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_ad_unified_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/layout/ad_unified_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_stop.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/anim_rotation.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/anim/rotation.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_empty.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/empty.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_fullscreen_exit.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_previous.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_favorite.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/favorite.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_custom_background_button_exit_dialog.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/custom_background_button_exit_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_ribonr.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/ribonr.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_default_scroll_handle_right.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-android-pdf-viewer-3.1.0-beta.1.aar/9ee85d10e309f24b787d45d09f613930/res/drawable/default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_row.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/0b625836c7b66489e2c53063e3010bb3/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_default_scroll_handle_top.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-android-pdf-viewer-3.1.0-beta.1.aar/9ee85d10e309f24b787d45d09f613930/res/drawable/default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_dialogmain.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/layout/dialogmain.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/xml_esys_flutter_share_filepaths.xml.flat",
+        "source": "/Users/mac/AIB/PdfReader/build/esys_flutter_share/intermediates/packaged_res/release/xml/esys_flutter_share_filepaths.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_play.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_splash_ad_bg_permission_1_state.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/splash_ad_bg_permission_1_state.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_simple_player_view.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_ic_close_splash.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/ic_close_splash.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/anim_bounce_amn.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/anim/bounce_amn.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_default_scroll_handle_left.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-android-pdf-viewer-3.1.0-beta.1.aar/9ee85d10e309f24b787d45d09f613930/res/drawable/default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/mac/AIB/PdfReader/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_favorite2.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/favorite2.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_playback_control_view.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_player_close_btn.xml.flat",
+        "source": "/Users/mac/AIB/PdfReader/build/flutter_pdf_viewer/intermediates/packaged_res/release/drawable/player_close_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_rewind.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_utb.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/utb.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a4d8e85bbefa4586bac6999e7e19295c/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-mdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-mdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/669b4a5dad373daf4b521795490a8ab1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/73f591dd8f3eefdd6db8397faf3fb11c/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xxhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_cancel.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/ratedialog-1.0.0.aar/6cfae1674bdf570eaa732b146722ea39/res/drawable/cancel.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-anydpi-v21_exo_icon_pause.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/layout_exo_list_divider.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-xhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable_splash_ad_bg_button_next.xml.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/startapp-2.3.14.aar/18d9cee1d6df7c268f1a00ddb81ee8e3/res/drawable/splash_ad_bg_button_next.xml"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-hdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-hdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/AIB/PdfReader/build/app/intermediates/res/merged/release/drawable-ldpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.3.aar/7d25b85669c9c38a3a9821ca1e6c17ae/res/drawable-ldpi-v4/exo_controls_shuffle.png"
+    }
+]
